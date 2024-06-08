@@ -9,7 +9,7 @@ e. Standard deviation of sensor measurements (sd1 - sd21): Deviasi standar
 
 Berikut ini contoh interface dari program tersebut dan hasilnya jika program dijalankan:
 ![Percobaan Untuk Interface](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/5f0ecb7b-1823-4f9d-a358-bdebef385f13)
-![Percobaan Interface_1](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/20b0b99b-2124-43d0-a29c-1b8341d545a2
+![Percobaan Interface_1](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/75123b90-89ae-429c-a59a-32ee972f0f2d)
 ![Percobaan Interface_2](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/dfa0ae58-ebc7-45d5-a102-531750b82e2d)
 ![Percobaan Interface_3](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/c955c55e-f79d-4581-9240-572a2d06498e)
 ![Percobaan Interface_4](https://github.com/ameliaaftiana/71220867_AMELIA-PUTRI-AFTIANA_Prediksi-Perawatan-Pesawat_Random-Forest-Estimasi-/assets/117893334/7f9610e7-5e72-48ea-8a7f-71393334cb28)
